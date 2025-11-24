@@ -1,0 +1,14 @@
+name: "elevated-rma-site"
+output_dir: "docs"
+navbar:
+  title: "Elevated RMA Services"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: cosmo

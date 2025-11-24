@@ -1,0 +1,21 @@
+---
+title: "Welcome to Elevated RMA Services"
+output: html_document
+---
+
+# Elevated RMA Services  
+### Our Reputation Is Spotless
+
+High-end care for every job — from superyachts to daily drivers.
+
+We specialize in:
+
+- **Ceramic Coatings**
+- **Marine Restoration**
+- **Paint Correction**
+- **Estate Soft Washing & Pressure Washing**
+
+> “Every job. Every client. Elevated.”
+
+[Explore Our Services](about.html)  
+[See Our Work](projects.html)
